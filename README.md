@@ -1,4 +1,4 @@
-extract the .rar
+extract the .zip
 open status.txt and get your roblosecurity cookie (you need it so it can process the animations)
 exit status.txt and then open copy and paste this and paste it into output command.txt and change the AddPublishToID or whatever its called to your user id
 then open launcher.bat and select 2 for fully spoofing the game (including scripts and modules) or regular (spoofing animations not in scripts or modules)
