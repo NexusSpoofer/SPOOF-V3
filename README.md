@@ -7,4 +7,4 @@ copy the code in copy and paste it into output command.txt then open studio go t
 
 
 
-CONTACT NEXUSNEXUSING ON DISCORD OR JOIN THE DISCORD SERVER FOR HELP! :) https://discord.gg/YnNZzhnW
+CONTACT NEXUSNEXUSING ON DISCORD OR JOIN THE DISCORD SERVER FOR HELP! :) https://discord.gg/e2x9KJtbyr
